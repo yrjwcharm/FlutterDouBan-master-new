@@ -1,3 +1,5 @@
+##### Thanks
+![image](https://user-images.githubusercontent.com/34397383/162610570-e53e0e8a-7300-4b57-8c6a-7a65f9dd5716.png)
 
 ![](https://github.com/kaina404/FlutterDouBan/blob/master-new/logo.png)
 
@@ -196,11 +198,6 @@ Doctor summary (to see all details, run flutter doctor -v):
    此项目仅供大家交流沟通使用，不得用于任何商业以及利益活动。由此引起的责任，跟我无关。谢谢！
 
 # **如果您觉得还可以的话，给个Star白~**
-
-# Thanks
-
-![image](https://user-images.githubusercontent.com/34397383/162610570-e53e0e8a-7300-4b57-8c6a-7a65f9dd5716.png)
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
